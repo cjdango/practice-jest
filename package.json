@@ -1,0 +1,14 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "practicing jest",
+  "main": "index.js",
+  "author": "cjdango",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
